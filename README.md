@@ -1,6 +1,6 @@
 # osmp-challenge-strava
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lwasser/osmp-challenge-strava/HEAD)
 
 ## About the Strava api
 
