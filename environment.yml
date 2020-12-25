@@ -1,0 +1,13 @@
+name: strava-dev
+channels:
+  - conda-forge
+dependencies:
+  # Core scientific python
+  - rioxarray
+  - matplotlib
+  - geopandas
+  - rioxarray
+  - geocube
+
+  - pip:
+      - stravalib
